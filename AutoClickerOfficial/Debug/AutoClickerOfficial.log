@@ -1,0 +1,8 @@
+﻿  SmithingClicker.cpp
+H:\MassFiles\Programming\C++\rs3_bot\AutoClickerOfficial\SmithingClicker.cpp(62,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\MassFiles\Programming\C++\rs3_bot\AutoClickerOfficial\SmithingClicker.cpp(70,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+H:\MassFiles\Programming\C++\rs3_bot\AutoClickerOfficial\SmithingClicker.cpp(89,8): warning C4101: 'ClickObject': unreferenced local variable
+H:\MassFiles\Programming\C++\rs3_bot\AutoClickerOfficial\SmithingClicker.cpp(90,9): warning C4101: 'randomness': unreferenced local variable
+H:\MassFiles\Programming\C++\rs3_bot\AutoClickerOfficial\SmithingClicker.cpp(163,8): warning C4101: 'ClickObject': unreferenced local variable
+H:\MassFiles\Programming\C++\rs3_bot\AutoClickerOfficial\SmithingClicker.cpp(164,9): warning C4101: 'randomness': unreferenced local variable
+  AutoClickerOfficial.vcxproj -> H:\MassFiles\Programming\C++\rs3_bot\Debug\AutoClickerOfficial.exe
